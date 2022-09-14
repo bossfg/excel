@@ -1,0 +1,12 @@
+{
+  "name": "excel",
+  "version": "0.0.1",
+  "description": "excel",
+  "keywords": [
+    "email"
+  ],
+  "author": "fengtao",
+  "devDependencies": {
+    "json2xls": "^0.1.2"
+  }
+}
